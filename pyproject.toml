@@ -3,12 +3,12 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "discord.py"
+name = "esex.py"
 description = "A Python wrapper for the Discord API"
 readme = { file = "README.rst", content-type = "text/x-rst" }
 license = { file = "LICENSE" }
 requires-python = ">=3.8"
-authors = [{ name = "Rapptz" }]
+authors = [{ name = "d0v9" }]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
     "License :: OSI Approved :: MIT License",
